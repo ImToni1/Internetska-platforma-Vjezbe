@@ -1,0 +1,9 @@
+h1.hero-title {
+    font-family: "Knockout", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+button.add-to-cart {
+    background-color: #000000;
+    color: #FFFFFF;
+    border: 1px solid #000000;
+}

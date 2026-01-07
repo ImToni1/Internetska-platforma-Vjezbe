@@ -1,0 +1,19 @@
+#naslov {
+    color: darkblue;
+    text-align: center;
+}
+
+#podnaslov {
+    color: darkgreen;
+    font-style: italic;
+}
+
+#paragraf1 {
+    color: red;
+    font-weight: bold;
+}
+
+.centrirano {
+    text-align: center;
+    color: gray;
+}
